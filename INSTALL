@@ -1,0 +1,4 @@
+Building sixaxis
+See doc/readme-qt.rst for instructions on building sixaxis QT.
+
+See doc/build-*.txt for instructions on building sixaxisd.
