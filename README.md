@@ -1,4 +1,13 @@
+sixaxis
+Full-Pos
+Ticker: SIX
+Supply: 60 Millions
+PoS: 9% Yearly
 
+Min Stake Age: 2 Hours
+Max stake Age: Unlimited
+
+Hardcoded backup blocks with zero reward
 
 Development process
 ===========================
